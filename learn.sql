@@ -7,4 +7,4 @@ CREATE TABLE departments
 DESC departments;
 SELECT * FROM departments;
 INSERT INTO departments(name)
-VALUES (
+VALUES (('Analysis'),('Design'),('Development'),('Testing');
